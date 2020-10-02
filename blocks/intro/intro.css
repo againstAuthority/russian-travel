@@ -1,0 +1,30 @@
+.intro {
+    width: 76.88%;
+    margin: 0 0 96px 0;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    grid-template-rows: auto;
+    grid-template-areas: 
+      "intro__title . "
+      "intro__text . "
+      "intro__list . ";
+}
+
+@media all and (max-width: 1024px) {
+  .intro {
+      width: 92.5%;
+      margin-bottom: 92px;
+  }
+}
+
+@media all and (max-width: 1024px) {
+  .intro {
+      margin-bottom: 88px;
+  }
+}
+
+@media all and (max-width: 320px) {
+  .intro {
+      margin-bottom: 64px;
+  }
+}

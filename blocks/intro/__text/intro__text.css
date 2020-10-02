@@ -1,0 +1,14 @@
+.intro__text {
+    margin: 0 0 32px 0;
+    padding: 0;
+    grid-area: intro__text;
+    font-size: 16px;
+    line-height: 163%;
+    color: #fff;
+}
+
+@media all and (max-width: 768px) {
+    .intro__text {
+        grid-column: 1/3;
+    }
+  }

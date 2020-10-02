@@ -1,0 +1,14 @@
+.place__web-site_link {
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    line-height: 22px;
+    align-self: start;
+    color: #fff;
+}
+
+@media screen {
+    .place__web-site_link:hover {
+        opacity: .8;
+    }
+}

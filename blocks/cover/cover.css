@@ -1,0 +1,15 @@
+.cover {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    justify-items: center;
+    align-items: center;
+    width: 92.5%;
+    margin: 0 0 92px 0;
+}
+
+@media screen and (max-width: 1024px) {
+    .cover {
+        width: 100%;
+    }
+}

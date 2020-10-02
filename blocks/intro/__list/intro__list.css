@@ -1,0 +1,13 @@
+.intro__list {
+    margin: 0;
+    padding: 0;
+    grid-area: intro__list;
+    list-style: none;
+    color: #fff;
+}
+
+@media all and (max-width: 768px) {
+    .intro__list {
+        grid-column: 1/3;
+    }
+  }

@@ -1,0 +1,11 @@
+.place__web-site {
+    display: grid;
+    margin: 0 0 48px 0;;
+    align-content: end;
+}
+
+@media all and (max-width: 620px) {
+    .place__web-site {
+        display: none;
+    }
+}

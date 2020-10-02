@@ -1,0 +1,23 @@
+.intro__title {
+    margin: 0 0 40px 0;
+    padding: 0;
+    grid-area: intro__title;
+    font-weight: 900;
+    font-size: 54px;
+    line-height: 58px;
+    color: #fff;
+}
+
+@media all and (max-width: 768px) {
+    .intro__title {
+        grid-column: 1/3;
+    }
+  }
+
+@media all and (max-width: 320px) {
+    .intro__title {
+        min-width: 288px;
+        font-size: 32px;
+        line-height: 35px;
+    }
+}

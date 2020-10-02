@@ -1,0 +1,15 @@
+.footer {
+    width: 92.5%;
+    margin: 0 0 24px 0;
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    grid-template-rows: 1fr;
+}
+
+@media all and (max-width: 720px) {
+    .footer {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: repeat(2, auto);
+    }
+  }
