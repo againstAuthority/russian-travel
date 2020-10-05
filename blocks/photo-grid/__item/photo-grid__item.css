@@ -6,6 +6,6 @@
     .photo-grid__item:hover {
         transition: all 1s ease-out;
         transform: scale(1.2);
-        cursor: pointer
+        cursor: pointer;
     }
 }
