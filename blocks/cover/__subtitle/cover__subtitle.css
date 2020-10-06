@@ -12,12 +12,6 @@
     z-index: 3;
 }
 
-@media all and (max-width: 1024px) {
-    .cover__subtitle {
-        font-size: 18px;
-    }
-}
-
 @media all and (max-width: 620px) {
     .cover__subtitle {
         margin-top: 16px;

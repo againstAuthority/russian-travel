@@ -12,19 +12,6 @@
     text-decoration: none;
     text-align: center;
     z-index: 3;
-
-}
-
-@media screen {
-    .cover__title:hover {
-        opacity: .8;
-    }
-}
-
-@media all and (max-width: 1024px) {
-    .cover__title {
-        font-size: 72px;
-    }
 }
 
 @media all and (max-width: 620px) {
