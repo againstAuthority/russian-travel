@@ -15,7 +15,7 @@
 * https://againstauthority.github.io/russian-travel/index.html
 
 ## Что сделано?
-:white_check_mark: Выполнена верстка в соответствии с брифом для Спринт 3 (см. п.Figma)<br>
+:white_check_mark:&nbsp;Выполнена верстка в соответствии с брифом для Спринт 3 (см. п.Figma)<br>
 
 ## Что нужно сделать?
-:black_square_button: Сдать работу для Спринт 3
+:black_square_button:&nbsp;Сдать работу для Спринт 3
