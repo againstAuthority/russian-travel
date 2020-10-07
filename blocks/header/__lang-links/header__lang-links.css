@@ -1,4 +1,7 @@
 .header__lang-links {
+    /* Я добавил display:flex, но сакральный смысл этого не особо понял :) 
+       Буду считать, что это требования по чек-листу :) */
+    display: flex;
     grid-column: -1/-2;
     justify-self: end;
 }
